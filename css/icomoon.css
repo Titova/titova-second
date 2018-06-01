@@ -1,0 +1,65 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?64lfxe');
+  src:  url('../fonts/icomoon.eot?64lfxe#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?64lfxe') format('truetype'),
+    url('../fonts/icomoon.woff?64lfxe') format('woff'),
+    url('../fonts/icomoon.svg?64lfxe#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-logo:before {
+  content: "\e900";
+}
+.icon-pe-7s-arc:before {
+  content: "\e901";
+}
+.icon-pe-7s-clock:before {
+  content: "\e902";
+}
+.icon-pe-7s-diamond:before {
+  content: "\e903";
+}
+.icon-pe-7s-joy:before {
+  content: "\e904";
+}
+.icon-pe-7s-like:before {
+  content: "\e905";
+}
+.icon-pe-7s-look:before {
+  content: "\e906";
+}
+.icon-pe-7s-magic-wand:before {
+  content: "\e907";
+}
+.icon-pe-7s-paint-bucket:before {
+  content: "\e908";
+}
+.icon-pe-7s-phone:before {
+  content: "\e909";
+}
+.icon-pe-7s-plane:before {
+  content: "\e90a";
+}
+.icon-pe-7s-portfolio:before {
+  content: "\e90b";
+}
+.icon-pe-7s-star:before {
+  content: "\e90c";
+}
